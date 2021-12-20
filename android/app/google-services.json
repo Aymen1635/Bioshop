@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37635578821",
+    "project_id": "bioshop-2c345",
+    "storage_bucket": "bioshop-2c345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37635578821:android:a2101dcbfdee75043189ac",
+        "android_client_info": {
+          "package_name": "com.projet.bioshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37635578821-ofhkb3tgaohk812qg4uq8brgb1nqpdml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1r3I3LEk2uxQn7yBK84Oepnl_5LsXnP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37635578821-ofhkb3tgaohk812qg4uq8brgb1nqpdml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
